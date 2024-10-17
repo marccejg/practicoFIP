@@ -1,5 +1,6 @@
 /**
-• El precio inicial del producto se ingresa por pantalla
+• El precio inicial del producto y la cantidad se ingresan por pantalla.
+Muestra un mensaje con el descuento del mes de la madre.
 
 Alumnos:
   Diana Ciganda
